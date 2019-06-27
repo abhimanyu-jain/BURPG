@@ -2,6 +2,7 @@ clear;
 clc;
 
 % Equation explanation : http://www.rocketmime.com/rockets/qref.html
+% q is dynamic pressure
 
 mr = 227 % empty (no motor) mass of your rocket
 me = 593 % loaded mass of your motor
